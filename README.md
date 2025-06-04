@@ -60,4 +60,4 @@ Version 1 of the website includes one stylesheet. Styles are defined and used on
 
 Students in the Software Development class are required to participate in this project as part of their classwork. Other GitHub users not in the class may also contribute, but may be rejected. See the [GitHub Docs: Contributing to a project](https://docs.github.com/en/get-started/exploring-projects-on-github/contributing-to-a-project) for more guidance on contributing to a project on GitHub.
 
-Editors: Sheldon Tang (@SheldonTSTANG)
+Editor: Sheldon Tang (@SheldonTSTANG)
